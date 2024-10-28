@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1730125318 source:c:\users\pedro\onedrive\햞ea de trabalho\projetoscodeblocks\tp1_trabalho-1\main.cpp
+	<iostream>
+	"Nome.hpp"
+
+1729826672 c:\users\pedro\onedrive\햞ea de trabalho\projetoscodeblocks\tp1_trabalho-1\include\avaliacao.hpp
+
+1729826402 source:c:\users\pedro\onedrive\햞ea de trabalho\projetoscodeblocks\tp1_trabalho-1\src\dominios.cpp\avaliacao.cpp
+	"Avaliacao.hpp"
+
+1729829293 source:c:\users\pedro\onedrive\햞ea de trabalho\projetoscodeblocks\tp1_trabalho-1\src\dominios.cpp\codigo.cpp
+	"Codigo.hpp"
+
+1729828438 c:\users\pedro\onedrive\햞ea de trabalho\projetoscodeblocks\tp1_trabalho-1\include\dominios.hpp\codigo.hpp
+	<string>
+
+1729882976 source:c:\users\pedro\onedrive\햞ea de trabalho\projetoscodeblocks\tp1_trabalho-1\src\dominios.cpp\data.cpp
+	"Data.hpp"
+
+1729877260 c:\users\pedro\onedrive\햞ea de trabalho\projetoscodeblocks\tp1_trabalho-1\include\dominios.hpp\data.hpp
+	<string>
+
+1730122062 source:c:\users\pedro\onedrive\햞ea de trabalho\projetoscodeblocks\tp1_trabalho-1\src\dominios.cpp\dinheiro.cpp
+	"Dinheiro.hpp"
+
+1730122134 c:\users\pedro\onedrive\햞ea de trabalho\projetoscodeblocks\tp1_trabalho-1\include\dominios.hpp\dinheiro.hpp
+
+1730123300 c:\users\pedro\onedrive\햞ea de trabalho\projetoscodeblocks\tp1_trabalho-1\include\duracao.hpp
+
+1730123519 source:c:\users\pedro\onedrive\햞ea de trabalho\projetoscodeblocks\tp1_trabalho-1\src\duracao.cpp
+	"Duracao.hpp"
+
+1730124806 source:c:\users\pedro\onedrive\햞ea de trabalho\projetoscodeblocks\tp1_trabalho-1\src\horario.cpp
+	"Horario.hpp"
+
+1730124507 c:\users\pedro\onedrive\햞ea de trabalho\projetoscodeblocks\tp1_trabalho-1\include\horario.hpp
+	<string>
+
+1730125383 c:\users\pedro\onedrive\햞ea de trabalho\projetoscodeblocks\tp1_trabalho-1\include\nome.hpp
+	<string>
+
